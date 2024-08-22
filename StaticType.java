@@ -1,5 +1,4 @@
 public class StaticType {
-// Load 5 Numbers using an Array and Check whether every Number is Prime or not
     public void prime(int a){
         if(a<=1){
             System.out.println("prime number ");
