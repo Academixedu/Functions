@@ -11,7 +11,7 @@ public static void EvenOdd(int number){
     else if(number>1){
         for(int i=2;i<number;i++){
             if(number%i==0){
-                count=1;
+                count+=1;
             }
         }
         if(count==0){
