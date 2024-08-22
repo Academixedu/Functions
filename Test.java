@@ -9,9 +9,8 @@ public class Test{
         Voidtype in1=new Voidtype();
         in1.prime(9);
 
-        // StaticType in2=new StaticType();
-        // int []in2.array(int b,int c );
-        
+       int[]n={1,2,3,4,5};
+       StaticType.array(n);
 
 
 
