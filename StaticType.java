@@ -25,11 +25,11 @@ public class StaticType {
         }
         
         
-        for (int i = 0; i < 20; i++) {
+        for (int i = 0; i < 5; i++) {
             if (isPrime(n[i])) {
-                System.out.println(n[i] + " is a prime number.");
+                System.out.println(n[i] + " is  prime number");
             } else {
-                System.out.println(n[i] + " is not a prime number.");
+                System.out.println(n[i] + " is not  prime number");
             }
         }
         
